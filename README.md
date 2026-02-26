@@ -1,0 +1,2 @@
+# Computational-Exploration-of-scRNA-seq-Data-Using-Seurat-on-Human-Immune-Cells
+This repository contains a comprehensive computational pipeline for the analysis of single-cell RNA sequencing (scRNA-seq) data derived from human immune cells. This project demonstrates the transition from raw gene expression matrices to biological insights, including cell-type identification and differential expression.
